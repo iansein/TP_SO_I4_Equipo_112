@@ -1,0 +1,13 @@
+Sein Ian
+Cisternas Celeste
+D'Angelo Tomas
+
+A) Azul
+B) Amarillo
+C) Blanco
+D) Quedo el de BETA
+E) BETA y GAMMA
+F) Solicita hacer un git pull para hacer un git push, ya que contiene trabajo que no existe localmente
+G) Realizar un git pull, modificar las filas y luego hacer un git push
+H) Se sobreescriben los datos
+I) Hacer el merge del TESTING a DESARROLLO una vez solucionados los conflictos de fusion
