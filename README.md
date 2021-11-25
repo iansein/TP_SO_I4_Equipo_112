@@ -34,10 +34,6 @@ background:skyblue;
 Crea las ramas : DESARROLLO y la rama TESTING en su repositorio local y hace el push
 para que queden todas las ramas en github
 
-UTN FRA – Tecnicatura Superior en Programación. http://www.sistemas-utnfra.com.ar 2
-
-Arquitectura y Sistemas Operativos
-
 2-ALFA descarga el repositorio EN FORMA LOCAL,
 3-BETA descarga el repositorio EN FORMA LOCAL
 Todos verifican tener los mismos datos
@@ -63,10 +59,6 @@ unificar cambios:
 15- GAMMA hace el merge de DESARROLLO al MASTER
 16- GAMMA hace el merge de TESTING al MASTER
 17- TODOS actualizan su repositorio local para ver los cambios realizados
-
-UTN FRA – Tecnicatura Superior en Programación. http://www.sistemas-utnfra.com.ar 3
-
-Arquitectura y Sistemas Operativos
 
 Pregunta:
 Responder dentro del archivo “respuesta_I4_EquipoX.txt”
